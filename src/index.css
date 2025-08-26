@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+.lin1{
+  font-size :32px;
+}
+.naf{
+  background-color: #2C3E50;
+}
+.compo1{
+  width: 32%;
+}
+.compo2{
+  width: 32%;
+}
+.compo3{
+  width: 32%;
+}
+
+.contant_footer{
+  background-color: #2C3E50;
+}
+.All_borders{
+  border: 1px  white solid;
+  border-radius: 100px;
+  padding: 7px;
+  
+}
+.All_borders:hover{
+  border: 1px  #0DCAF0 solid;
+  color: #0DCAF0;
+  
+  border-radius: 100px;
+  padding: 7px;
+  
+}
+.last_footer{
+  background-color: #1A252F;
+}
+.page_notFound{
+  padding-top: 150px;
+  height: 400px;
+  font-size: 40px;
+}
+.sec_Home{
+  background-color: #1ABC9C;
+}
+.logo{
+  font-size: 40px;
+}
+.page_about{
+  background-color: #1ABC9C;
+}
+.page_aboutheight{
+  height: 145px;
+}
+.contact1_about{
+  font-size: 40px;
+}
+.star {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding:0 7px;
+  font-size :30px;
+  background-color: #1ABC9C;
+}
+.line-with-star {
+  position: relative;
+  text-align: center;
+  margin: 20px 0;
+  border-bottom: 4px solid white;
+  width: 200px;
+  
+}
+.parag{
+  
+  font-family : system-ui , -apple-system , "Segoe UI", Roboto , "Helvetica Neue" , "Noto Sans" , "Liberation Sans" , Arial sans-serif , "Apple Color Emoji" , "Segoe UI Emoji" , "Segoe UI Symbol" , "Noto Color Emoji" ;
+
+
+  max-width: 550px;
+  
+}
+
+.pro{
+  color:#2C3E50 ;
+}
+.star2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding:0 7px;
+  font-size :30px;
+  background-color: white;
+}
+.line-with-star2 {
+  position: relative;
+  text-align: center;
+  margin: 20px 0;
+  border-bottom: 4px solid #2C3E50;
+ 
+  width: 200px;
+  
+}
+
+.inp{
+  height: 45px;
+  margin-bottom: 30px !important;
+  border: 0px 0px 1px 0px !important;
+}
+.btn1{
+  font-size: 20px; 
+}
+.hoverd_image{
+  position: relative;
+}
+.hoverd_image:hover .Icon_plus{
+  opacity: .8;
+
+}
+.Icon_plus{
+  position: absolute;
+  background-color: #1ABC9C;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: all .5s;
+  -webkit-transition: all .5s;
+  -moz-transition: all .5s;
+  -o-transition: all .5;
+}
+.size_icon{
+  font-size: 90px;
+  color: white;
+ 
+}
+
+.li1:hover{
+  background-color: #0DCAF0;
+  border-radius: 10px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
