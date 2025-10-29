@@ -7,7 +7,7 @@ export default function Navbar() {
   return <>
   <nav className="navbar py-4 navbar-expand-lg naf">
   <div className="container fw-bold">
-    <Link  className="navbar-brand text-white lin1" to= "StartFramework">START FRAMEWORK </Link>
+    <Link  className="navbar-brand text-white lin1" to= "START-FRAMEWORK">START FRAMEWORK </Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

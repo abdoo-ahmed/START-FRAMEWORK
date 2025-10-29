@@ -10,7 +10,7 @@ import Layout from './Layout/Layout'
 export default function App() {
   var x= createBrowserRouter([
     { path:"/", element:<Layout/>, children:[
-      { path:"StartFramework", element:<Home/>},
+      { path:"START-FRAMEWORK", element:<Home/>},
       { path:"home", element:<Home/>},
       { path:"", element:<Home/>},
       { path:"about", element:<About/>},
